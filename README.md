@@ -24,7 +24,7 @@ The project explores multiple power and control configurations to suit different
     -Remote Operation: Designed for portability and remote control.
 
     -Safety Systems: Will feature a dedicated battery protection circuit (BMS) for overcharge/discharge protection, mirroring commercial safety standards.
-
+*Connectors (JST-PHR-2) on PCB are added for DC fan and piezo ring's compatible connectors.*
 # Engineering Workflow
   Mechanical Design (MCAD): Custom 3D-modeled bodies created in Fusion 360, designed with internal mounting bosses and clearances specifically for the custom PCBs.
 
