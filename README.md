@@ -3,10 +3,10 @@ A study in miniaturized appliance design and power distribution
 
 # Project Overview 
 ***This project focuses on the end-to-end development of innovative, small-scale humidifiers (1:6 scale). The goal is to blend aesthetic "toy-like" form factors with professional-grade engineering, specifically focusing on ECAD/MCAD co-design using Autodesk Fusion 360.***
-<img width="1920" height="850" alt="Hibachi Grill" src="https://github.com/user-attachments/assets/802e79f9-5e40-4ca4-aa7b-4801a3c10e77" />
-**Hibachi Grill CAD Model**
-<img width="1920" height="850" alt="Hibachi Grill Inside Compartment" src="https://github.com/user-attachments/assets/2a186841-89d4-451f-9cfa-d298694336ae" />
-**Section Analysis of Hibachi Grill CAD Model**
+<img width="1920" height="850" alt="Humidifier Assembly" src="https://github.com/user-attachments/assets/183350fd-7f4b-468f-8d59-3b978481b450" />**Hibachi Grill CAD Model**
+<img width="1920" height="850" alt="Humidifier Section Analysis" src="https://github.com/user-attachments/assets/78e2e76c-311b-40b9-b316-311770287eed" />**Section Analysis of Hibachi Grill CAD Model**
+<img width="1920" height="850" alt="Hibachi Grill Wireframe" src="https://github.com/user-attachments/assets/e98f6bfb-11fe-438e-91c6-7c62f3f5d724" /> **MCAD & ECAD Assembly**
+
 # Technical Specifications & Features
 The project explores multiple power and control configurations to suit different user needs:
 
