@@ -11,8 +11,7 @@ A study in miniaturized appliance design and power distribution
 The project explores multiple power and control configurations to suit different user needs:
 
   **Option A: USB-Powered (Current Revision)**
-  <img width="1920" height="850" alt="Humidifier (USB Only) PCB" src="https://github.com/user-attachments/assets/579e3ed5-2536-48d2-966b-a480d99a28ef" />
-
+<img width="1920" height="850" alt="Humidifier (USB Only) Circuit" src="https://github.com/user-attachments/assets/70c5e551-3140-4dc5-90eb-f64ab6553b2d" />
     -Direct Power: Optimized for 5V USB input.
 
     -User Interface: Integrated physical toggle switch for post-plug-in control.
